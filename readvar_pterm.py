@@ -9,6 +9,6 @@ for i in range(10):
     time.sleep(3)
     random.seed()
     n = random.random()
-   #with open('out.txt', 'a') as f:
-   #    f.write(str(n) + '\n')
+    #with open('out.txt', 'a') as f:
+    #    f.write(str(n) + '\n')
     print(n)
