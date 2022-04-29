@@ -1,4 +1,7 @@
-# /usr/bin python3
+##! /usr/bin python3
+
+# doe 1 "#" weg voor python in linux
+
 import random
 import time
 
