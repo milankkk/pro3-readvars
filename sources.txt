@@ -1,0 +1,2 @@
+source: https://github.com/milankkk/pro3-readvars
+read pyvars: https://stackoverflow.com/questions/65551016/how-to-access-python-variables-from-outside-the-script
